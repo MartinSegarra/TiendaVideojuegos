@@ -1,0 +1,55 @@
+[{
+    "id": 1,
+    "nombre": "Uncharted 4",
+    "plataforma": "PS4",
+    "precio": 1700,
+    "cover": "assets/img/videojuegos/uncharted.jpg"
+  }, {
+    "id": 2,
+    "nombre": "The Last of Us Part II",
+    "plataforma": "PS4",
+    "precio": 2400,
+    "cover": "assets/img/videojuegos/last-of-us.png"
+  }, {
+    "id": 3,
+    "nombre": "Red Dead Redemption II",
+    "plataforma": "PS4",
+    "precio": 3200,
+    "cover": "assets/img/videojuegos/red-dead.jpg"
+  }, {
+    "id": 4,
+    "nombre": "Persona 5",
+    "plataforma": "PS4",
+    "precio": 3800,
+    "cover": "assets/img/videojuegos/persona.png"
+  }, {
+    "id": 5,
+    "nombre": "Grand Theft Auto V",
+    "plataforma": "PS4",
+    "precio": 2200,
+    "cover": "assets/img/videojuegos/gta.jpg"
+  }, {
+    "id": 6,
+    "nombre": "Super Mario Oddysey",
+    "plataforma": "Nintendo Switch",
+    "precio": 4500,
+    "cover": "assets/img/videojuegos/mario.jpg"
+  }, {
+    "id": 7,
+    "nombre": "The Legend of Zelda",
+    "plataforma": "Nintendo Switch",
+    "precio": 4200,
+    "cover": "assets/img/videojuegos/zelda.jpg"
+    }, {
+    "id": 8,
+    "nombre": "Halo 5: Guardians",
+    "plataforma": "Xbox One",
+    "precio": 2600,
+    "cover": "assets/img/videojuegos/halo.png"
+  }, {
+    "id": 8,
+    "nombre": "Gears of War",
+    "plataforma": "Xbox One",
+    "precio": 2900,
+    "cover": "assets/img/videojuegos/gears.jpg"
+  }]
