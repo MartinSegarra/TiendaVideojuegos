@@ -5,7 +5,7 @@ const carrito = localStorage.carrito ? JSON.parse(localStorage.carrito) : [];
 
 console.log(listaVideojuegos)
 
-//SI EL ARRAY ESTÁ VACIO, TRAIGO EL JSON DESDE CERO, SI NO, TRAIGO LOS QUE QUEDARON
+//SI EL ARRAY ESTÁ VACIO, TRAIGO EL JSON DESDE CERO, SI NO, TRAIGO LOS VIDEOJUEGOS QUE QUEDARON
 
 
 if (listaVideojuegos.length <= 0) {

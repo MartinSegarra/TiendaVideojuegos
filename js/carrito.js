@@ -6,6 +6,7 @@ mostrarCarrito()
 
 console.log(carrito)
 
+// FUNCION GENERADORA DEL CARRITO CON LOS DATOS DEL INDEX
 
 function mostrarCarrito () {
     carrito.sort(function(a, b) {
@@ -45,6 +46,8 @@ function mostrarCarrito () {
     }
 
 }
+
+// FUNCION PARA QUITAR VIDEOJUEGO DEL CARRITO
 
 function quitarVideojuego (index) {
     let quitado = carrito [index];
