@@ -3,71 +3,71 @@
   "nombre": "Uncharted 4",
   "plataforma": "PS4",
   "precio": 1700,
-  "cover": "images/videojuegos/uncharted.jpg"
+  "cover": "assets/img/videojuegos/uncharted.jpg"
 }, {
   "id": 2,
   "nombre": "The Last of Us Part II",
   "plataforma": "PS4",
   "precio": 2400,
-  "cover": "images/videojuegos/last-of-us.png"
+  "cover": "assets/img/videojuegos/last-of-us.png"
 }, {
   "id": 3,
   "nombre": "Red Dead II",
   "plataforma": "PS4",
   "precio": 3200,
-  "cover": "images/videojuegos/red-dead.jpg"
+  "cover": "assets/img/videojuegos/red-dead.jpg"
 }, {
   "id": 4,
   "nombre": "Persona 5",
   "plataforma": "PS4",
   "precio": 3800,
-  "cover": "images/videojuegos/persona.png"
+  "cover": "assets/img/videojuegos/persona.png"
 }, {
   "id": 5,
   "nombre": "Grand Theft Auto V",
   "plataforma": "PS4",
   "precio": 2200,
-  "cover": "images/videojuegos/gta.jpg"
+  "cover": "assets/img/videojuegos/gta.jpg"
 }, {
   "id": 6,
   "nombre": "God of War",
   "plataforma": "PS4",
   "precio": 2000,
-  "cover": "images/videojuegos/godofwar.jpg"
+  "cover": "assets/img/videojuegos/godofwar.jpg"
 },{
   "id": 7,
   "nombre": "Super Mario Oddysey",
   "plataforma": "Nintendo Switch",
   "precio": 4500,
-  "cover": "images/videojuegos/mario.jpg"
+  "cover": "assets/img/videojuegos/mario.jpg"
 }, {
   "id": 8,
   "nombre": "The Legend of Zelda",
   "plataforma": "Nintendo Switch",
   "precio": 4200,
-  "cover": "images/videojuegos/zelda.jpg"
+  "cover": "assets/img/videojuegos/zelda.jpg"
   },{
   "id": 9,
   "nombre": "Super Smash Bros. Ultimate",
   "plataforma": "Nintendo Switch",
   "precio": 4500,
-  "cover": "images/videojuegos/smash.jpg"
+  "cover": "assets/img/videojuegos/smash.jpg"
   }, {
   "id": 10,
   "nombre": "Gears of War",
   "plataforma": "Xbox One",
   "precio": 2600,
-  "cover": "images/videojuegos/gears.jpg"
+  "cover": "assets/img/videojuegos/gears.jpg"
   },{
   "id": 11,
   "nombre": "Halo",
   "plataforma": "Xbox One",
   "precio": 2600,
-  "cover": "images/videojuegos/halo.png"
+  "cover": "assets/img/videojuegos/halo.png"
   },{
   "id": 12,
   "nombre": "Control",
   "plataforma": "Xbox One",
   "precio": 2900,
-  "cover": "images/videojuegos/control.png"
+  "cover": "assets/img/videojuegos/control.png"
 }]
